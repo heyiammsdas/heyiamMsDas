@@ -44,13 +44,7 @@
 
 ---
 
-## 🔥 <span style="color:#FF3131;text-shadow:0 0 10px #FF3131;">GitHub Streak</span>  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=heyiammsdas&theme=neon-dark&hide_border=true&ring=FF00FF&fire=39FF14&currStreakLabel=00F0FF" height="200"/>
-</p>
-
----
 
 ## 🚀 <span style="color:#FFD700;text-shadow:0 0 10px #FFD700;">Activity Graph</span>  
 

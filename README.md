@@ -19,8 +19,10 @@
 <a href="https://twitter.com/x_dasmlengr" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
 <a href="https://linkedin.com/in/madhusudan-das-23cs8072" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 <a href="https://instagram.com/msdas7476" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
-<a href="https://leetcode.com/msdas7476" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
-<a href="https://auth.geeksforgeeks.org/user/msdas6w39" target="blank"><img src="https://img.icons8.com/color/48/26a641/geeksforgeeks.png" height="45"/></a>
+<a href="https://leetcode.com/msdas7476" target="blank"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/65111256-62b2-47d7-8d15-ccb170a0a33d" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/msdas6w39" target="blank"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/57802d48-7c02-409a-82d4-d1b384ad3110" />
+</a>
 </p>
 
 ---

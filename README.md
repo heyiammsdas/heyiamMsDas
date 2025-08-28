@@ -4,9 +4,6 @@
 </h1>
 
 <!-- Neon Glow Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%">
-</div>
 
 ---
 
@@ -41,7 +38,7 @@
 ## 📊 <span style="color:#00FFFF;text-shadow:0 0 15px #00FFFF;font-family:Orbitron;">GitHub Stats</span>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyiammsdas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=FFFFFF" height="200"/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyiammsdas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF" height="200"/>
 </p>
 
@@ -70,7 +67,3 @@
   </p>
 </div>
 
-<!-- Neon Glow Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%">
-</div>

@@ -52,11 +52,6 @@
 
 ---
 
-## 🔥 <span style="color:#FF4500;text-shadow:0 0 15px #FF4500;font-family:Orbitron;">Contribution Graph</span>  
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/heyiammsdas" alt="Contribution Graph" width="95%"/>
-</p>
 
 ---
 

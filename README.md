@@ -39,7 +39,7 @@
 
 <p align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyiammsdas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF" height="200"/>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyiamMsDas&theme=tokyonight)
 </p>
 
 ---

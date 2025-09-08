@@ -46,9 +46,7 @@
 
 ## 🚀 <span style="color:#FFD700;text-shadow:0 0 15px #FFD700;font-family:Orbitron;">Activity Graph</span>  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyiammsdas&theme=radical&bg_color=0D1117&color=00F0FF&line=FF00FF&point=39FF14&hide_border=true" width="95%"/>
-</p>
+[![Madhusudan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heyiamMsDas)](https://github.com/heyiamMsDas/github-readme-activity-graph)
 
 ---
 

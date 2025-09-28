@@ -9,7 +9,7 @@
 
 ## ⚡ <span style="color:#00FFFF;text-shadow:0 0 15px #00FFFF;font-family:Orbitron;">About Me</span>  
 
-- 🗿 Working on **Recoil**
+- 🗿 Working on **Zustand** and **Rust🦀**
 - 🌱 Mastering **React.js**    
 - 💌 Connect with me: **msdas7476@gmail.com**  
 

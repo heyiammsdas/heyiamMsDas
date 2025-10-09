@@ -1,7 +1,7 @@
 # <!-- Neon Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=200&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhusudan+Das;Frontend+Developer+from+India;React+%7C+JavaScript+%7C+Web+Dev;Building+the+Future+of+Web" alt="Typing SVG" />
-</h1>
+<h1 style="color:#3B82F6;">Hi 👋, I'm Madhusudan Das, Web Developer</h1>
+
+
 
 <!-- Neon Glow Divider -->
 

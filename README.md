@@ -1,5 +1,5 @@
 # <!-- Neon Banner -->
-<h1 style="color:#3B82F6;">Hi 👋, I'm Madhusudan Das, Web Developer</h1>
+<h1 style="color:#3B82F6;">Hi 👋, I'm Madhusudan Das</h1>
 
 
 

@@ -39,14 +39,14 @@
 
 <p align="center">
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyiamMsDas&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyiammsdas&theme=tokyonight)
 </p>
 
 ---
 
 ## 🚀 <span style="color:#FFD700;text-shadow:0 0 15px #FFD700;font-family:Orbitron;">Activity Graph</span>  
 
-[![Madhusudan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heyiamMsDas)](https://github.com/heyiamMsDas/github-readme-activity-graph)
+[![Madhusudan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heyiammsdas)](https://github.com/heyiammsdas/github-readme-activity-graph)
 
 ---
 

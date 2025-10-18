@@ -1,5 +1,5 @@
 # <!-- Neon Banner -->
-<h1 style="color:#3B82F6;">Hi 👋, I'm Madhusudan Das</h1>
+<h1 >Hi 👋, I'm Madhusudan Das</h1>
 
 
 
@@ -9,7 +9,7 @@
 
 ## ⚡ <span style="color:#00FFFF;text-shadow:0 0 15px #00FFFF;font-family:Orbitron;">About Me</span>  
 
-- 🗿 Working on **ExpressJS** and **Rust🦀**
+- 🗿 Working on **mongoDB** and **Rust🦀**
 - 🌱 Mastering **React.js**    
 - 💌 Connect with me: **msdas7476@gmail.com**  
 

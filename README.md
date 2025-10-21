@@ -18,7 +18,7 @@
 ## 🌐 <span style="color:#FF00FF;text-shadow:0 0 15px #FF00FF;font-family:Orbitron;">Connect With Me</span>  
 
 <p align="center">
-  <a href="https://twitter.com/x_dasmlengr" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="50" style="transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="https://twitter.com/msdotdas" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="50" style="transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="https://linkedin.com/in/madhusudan-das-23cs8072" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50" style="transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="https://instagram.com/msdas7476" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="50" style="transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="https://leetcode.com/msdas7476" target="_blank"><img width="50" height="50" alt="LeetCode" src="https://github.com/user-attachments/assets/65111256-62b2-47d7-8d15-ccb170a0a33d" style="transition: transform 0.3s ease; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>

@@ -9,7 +9,7 @@
 
 ## ⚡ <span style="color:#00FFFF;text-shadow:0 0 15px #00FFFF;font-family:Orbitron;">About Me</span>  
 
-- 🗿 Working on **mongoDB** and **Rust🦀**
+- 🗿 Working on **mongoDB** , **TypeScript** and **Rust🦀** 
 - 🌱 Mastering **React.js**    
 - 💌 Connect with me: **msdas7476@gmail.com**  
 
@@ -30,7 +30,7 @@
 ## 💻 <span style="color:#39FF14;text-shadow:0 0 15px #39FF14;font-family:Orbitron;">Tech Stack</span>  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,mysql,git,linux,figma,bash,postman,sass,tailwindcss,express,mongodb" style="filter: drop-shadow(0 0 5px #39FF14);"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,mysql,git,linux,figma,bash,postman,sass,tailwindcss,express,mongodb,typescript" style="filter: drop-shadow(0 0 5px #39FF14);"/>
 </p>
 
 ---

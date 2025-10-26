@@ -30,7 +30,7 @@
 ## 💻 <span style="color:#39FF14;text-shadow:0 0 15px #39FF14;font-family:Orbitron;">Tech Stack</span>  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,mysql,git,linux,figma,bash,postman,sass,tailwindcss,express,mongodb,typescript" style="filter: drop-shadow(0 0 5px #39FF14);"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=c,cpp,python,html,css3,javascript,typescript,reactjs,zustand,nodejs,expressjs,mongodb,git,github,figma,mysql,bash,linux,postman,visualstudiocode,jwt,sass,microsoftword"/>
 </p>
 
 ---

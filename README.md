@@ -1,8 +1,6 @@
 # <!-- Neon Banner -->
-<h1 >Hi 👋, I'm Madhusudan Das</h1>
 
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=50&duration=2000&pause=1000&color=5C0CC7&width=1500&height=300&lines=Hello+I+am+Madhusudan+++;Still+in+toxic+relationship+with+my+compiler.+%F0%9F%92%94)](https://git.io/typing-svg)
 <!-- Neon Glow Divider -->
 
 ---

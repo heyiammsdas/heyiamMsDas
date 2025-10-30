@@ -1,13 +1,13 @@
 # <!-- Neon Banner -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=50&duration=2000&pause=1000&color=5C0CC7&width=1500&height=300&lines=Hello+I+am+Madhusudan+++;Still+in+toxic+relationship+with+my+compiler.+%F0%9F%92%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=50&duration=2000&pause=1000&color=5C0CC7&width=1500&height=300&lines=Hello+I+am+Madhusudan+++👋🏽;)](https://git.io/typing-svg)
 <!-- Neon Glow Divider -->
 
 ---
 
 ## ⚡ <span style="color:#00FFFF;text-shadow:0 0 15px #00FFFF;font-family:Orbitron;">About Me</span>  
 
-- 🗿 Working on **mongoDB** , **TypeScript** and **Rust🦀** 
+- 🗿 Working on **mongoDB** , **TypeScript** 
 - 🌱 Mastering **React.js**    
 - 💌 Connect with me: **msdas7476@gmail.com**  
 

@@ -17,10 +17,8 @@
 ## ⚡ <span style="color:#00FFFF;text-shadow:0 0 15px #00FFFF;font-family:Orbitron;">About Me</span>
 
 🗿 Currently working on **NextJS** and **TypeScript**  
-🌱 Learning and mastering **React.js**  
+🏫 Currently doing **CS Engineering**
 💡 Passionate about building modern, scalable web apps  
-🎯 Always eager to learn new technologies and solve real-world problems  
-
 ---
 
 ## 🌐 <span style="color:#FF00FF;text-shadow:0 0 15px #FF00FF;font-family:Orbitron;">Connect With Me</span>

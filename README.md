@@ -64,6 +64,13 @@
 ### 🧰 <span style="color:#00FFFF;">Tools & Others</span>
 <img src="https://skills.syvixor.com/api/icons?i=git,github,visualstudiocode&perline=10" />
 
+### 🧰 <span style="color:#00FFFF;">Machine Learning and Artificial Intelligence</span>
+<img src="https://skills.syvixor.com/api/icons?i=pytorch&perline=10" />
+
+</div>
+
+
+
 </div>
 
 ---
